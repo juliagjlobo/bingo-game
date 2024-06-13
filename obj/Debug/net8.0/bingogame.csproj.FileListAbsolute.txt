@@ -1,0 +1,14 @@
+D:\dev\Bingo\bingogame\bingogame\bin\Debug\net8.0\bingogame.exe
+D:\dev\Bingo\bingogame\bingogame\bin\Debug\net8.0\bingogame.deps.json
+D:\dev\Bingo\bingogame\bingogame\bin\Debug\net8.0\bingogame.runtimeconfig.json
+D:\dev\Bingo\bingogame\bingogame\bin\Debug\net8.0\bingogame.dll
+D:\dev\Bingo\bingogame\bingogame\bin\Debug\net8.0\bingogame.pdb
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.AssemblyInfoInputs.cache
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.AssemblyInfo.cs
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.csproj.CoreCompileInputs.cache
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.dll
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\refint\bingogame.dll
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.pdb
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\bingogame.genruntimeconfig.cache
+D:\dev\Bingo\bingogame\bingogame\obj\Debug\net8.0\ref\bingogame.dll
